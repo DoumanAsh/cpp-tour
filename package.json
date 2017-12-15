@@ -21,6 +21,8 @@
     "author": "Douman <douman@gmx.se>",
     "license": "MIT",
     "devDependencies": {
+        "html-loader": "0",
+        "asciidoctor-loader": "0",
         "autoprefixer": "7",
         "ava": "0",
         "babel-core": "6",
